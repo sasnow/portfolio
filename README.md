@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[About Me](https://sasnow.github.io/portfolio/root/index.html)
+About Me - Project Summary - Coding Samples - Contact
 
 You can use the [editor on GitHub](https://github.com/sasnow/portfoliotest/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
