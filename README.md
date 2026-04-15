@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Scott Snow
 
 [About Me](#About Me) - Project Summary - Coding Samples - [Contact](#Contact)
 
