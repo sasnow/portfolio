@@ -1,6 +1,4 @@
-## Scott Snow
-
-[LinkedIn](https://www.linkedin.com/in/scott-snow/) | [E-mail](mailto:scott_a_snow@yahoo.com)
+## Scott Snow - [LinkedIn](https://www.linkedin.com/in/scott-snow/) - [E-mail](mailto:scott_a_snow@yahoo.com)
 
 # About Me
 
