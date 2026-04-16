@@ -1,6 +1,6 @@
 ## Scott Snow
 
-[About Me](#About-Me) - Project Summary - Coding Samples - [Contact](#Contact)
+[LinkedIn](https://www.linkedin.com/in/scott-snow/) | [E-mail](mailto:scott_a_snow@yahoo.com)
 
 # About Me
 
@@ -13,7 +13,3 @@ I am an Automation Engineer, a Full Stack Developer, and a Power BI Developer. I
 ### Test Insights Platform - Lead Developer
 
 ### EMME - Developer
-
-# Contact
-
-[E-mail](mailto:scott_a_snow@yahoo.com)
