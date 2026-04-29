@@ -50,7 +50,3 @@ I am an Automation Engineer, a Full Stack Developer, and a Power BI Developer. I
     
   - Developed Automation Scripts to test CNSG Solution. Automated test cases consisted of validating Powershell output and Confirming Cloud Native changes in Azure Portal
 </details>
-
-### Test Insights Platform - Lead Developer
-
-### EMME - Developer
