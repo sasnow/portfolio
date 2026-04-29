@@ -10,6 +10,7 @@ I am an Automation Engineer, a Full Stack Developer, and a Power BI Developer. I
 ### Full-Stack Engineer
 <details>
   <summary>Test Insights Platform - Lead Developer</summary>
+	
   - Designed and developed a full-stack web application using .NET, jQuery, PostgreSQL, and Azure, serving as the primary developer from inception through deployment.
   - Implemented role-based access control for users ensuring secure and compliant data and function access across the platform.
   - Built a report library interface, administrative web forms, and data mapping/upload features, streamlining business operations and improving usability.
