@@ -7,16 +7,21 @@ I am an Automation Engineer, a Full Stack Developer, and a Power BI Developer. I
 
 ## Project Summaries
 
-### Web Development
+### Full-Stack Engineer
 <details>
-  <summary>Click to expand</summary>
+  <summary>Test Insights Platform</summary>
 
-  ## Hidden Content
+</details>
+<details>
+  <summary>EMME</summary>
 
-  You can put **Markdown** here too:
-  - Lists
-  - Code blocks
-  - Images
+</details>
+<details>
+  <summary>Dynamics 365 Bridge</summary>
+
+</details>
+<details>
+  <summary>CSV Parser</summary>
 
 </details>
 
