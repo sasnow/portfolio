@@ -7,6 +7,18 @@ I am an Automation Engineer, a Full Stack Developer, and a Power BI Developer. I
 
 ## Project Summary
 
+<details>
+  <summary>Click to expand</summary>
+
+  ## Hidden Content
+
+  You can put **Markdown** here too:
+  - Lists
+  - Code blocks
+  - Images
+
+</details>
+
 ### OneAccess - Automation Engineer
 
 ### Test Insights Platform - Lead Developer
