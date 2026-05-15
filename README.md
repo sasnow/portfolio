@@ -3,7 +3,9 @@
 
 ## About Me
 
-I am an Automation Engineer, a Full Stack Developer, and a Power BI Developer. I also have experience in many other aspects of Data Science, including Machine Learning, Data Engineering, and Natural-Language Processing
+I am an Automation Engineer, a Full Stack Developer, and a Power BI Developer. I also have experience in many other aspects of Data Science, including Machine Learning, Data Engineering, and Natural-Language Processing. After returning to school and transitioning my career in 2019, I joined EY and have been there for 7 years. In my first few years, I worked on a variety of projects related to my educational background. As I progressed in the company, opportunities arose that required me to transition, adapt, and obtain new skills. 
+
+The first such opportunity was to develop a tool for a team in the consulting practice with multiple clients. This tool needed to automate the instantiation of a database and associated Power BI report. Ultimately, the product owner and engagement manager decided on using .NET to handle the automation. As another developer and I worked on the Power BI template and the database structure, I was learning C# and .NetCore. As the tool evolved, more needs were discovered by the stakeholders and the automation morphed into a full web application with forms for uploading data files and project management. To handle these changes, the team brought on other developers with more experience but I remained as the lead because of my familiarity with the code. A few years 
 
 ## Project Summaries
 
@@ -12,11 +14,11 @@ I am an Automation Engineer, a Full Stack Developer, and a Power BI Developer. I
   <summary>Test Insights Platform - Lead Developer</summary>
 	
   - Designed and developed a full-stack web application using .NET, jQuery, PostgreSQL, and Azure, serving as the primary developer from inception through deployment.
-  - Implemented role-based access control for users ensuring secure and compliant data and function access across the platform.
+  - Implemented role-based access control for users, ensuring secure and compliant data and function access across the platform.
   - Built a report library interface, administrative web forms, and data mapping/upload features, streamlining business operations and improving usability.
   - Integrated Power BI functionality, including toggle between edit/view modes and exporting reports to PDF or PBIX, enhancing reporting flexibility for end users.
   - Collaborated with stakeholders to translate business requirements into technical solutions, delivering a scalable and maintainable reporting platform.
-  - Reduced total effort spent which previously included customer onboarding, report design, pipeline creation, and data load.
+  - Reduced total effort spent, which previously included customer onboarding, report design, pipeline creation, and data load.
 </details>
 <details>
   <summary>EMME - Developer</summary>
