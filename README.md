@@ -11,7 +11,7 @@ One of my first major opportunities involved developing a tool for a consulting 
 
 Another significant transition occurred after the original project was handed off for maintenance. At the time, the automation testing team had a growing need for additional support, and I was asked to transition into automated software testing. To prepare for the role, I learned Robot Framework, Selenium, and software quality assurance best practices. After contributing to several smaller initiatives, I joined the automation team supporting OneAccess, an internal identity and access management platform. Over the past three years, I have helped design and build regression automation pipelines from the ground up for two major functional areas: the Group Management API offering and a related cloud-native security group solution. In addition, I have developed UI automation coverage for numerous other application components, including bulk upload workflows and group management plugins.
 
-## Project Summaries
+## Work Project Summaries
 
 ### Full-Stack Engineer
 <details>
@@ -55,4 +55,12 @@ Another significant transition occurred after the original project was handed of
 	<summary>NonOneAccess - Automation Engineer</summary>
     
   - Developed Automation Scripts to test CNSG Solution. Automated test cases consisted of validating Powershell output and Confirming Cloud Native changes in Azure Portal
+</details>
+
+## Personal Projects
+<details>
+  <summary>MS - Applied Data Science Portfolio</summary>
+  Completed Master of Science in Applied Data Science over the course of 36 credits in 18 months. The following coursework was selected for inclusion in my graduating portfolio
+  - Item 1
+  - Item 2
 </details>
