@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am an Automation Engineer, Full Stack Developer, and Power BI Developer with additional experience across several areas of Data Science, including Machine Learning, Data Engineering, and Natural Language Processing. After returning to school and transitioning my career in 2019, I joined EY, where I have continued to grow through a variety of technical and cross-functional roles.
+I am a Full Stack Developer, Automation Engineer, and Power BI Developer with additional experience across several areas of Data Science, including Machine Learning, Data Engineering, and Natural Language Processing. After returning to school and transitioning my career in 2019, I joined EY, where I have continued to grow through a variety of technical and cross-functional roles.
 
 During my early years with the company, I worked on projects closely aligned with my academic background. As new opportunities emerged, I consistently adapted by learning new technologies and expanding my skill set to meet evolving business needs.
 
