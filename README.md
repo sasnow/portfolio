@@ -17,7 +17,7 @@ Another significant transition occurred after the original project was handed of
 
 ## Work Project Summaries
 ### Software Engineer
-<details markdown="1">
+<details>
   <summary>Test Insights Platform - Lead Developer</summary>
 
   - Designed and developed a full-stack web application using .NET, jQuery, PostgreSQL, and Azure, serving as the primary developer from inception through deployment.
