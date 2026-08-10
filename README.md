@@ -152,7 +152,7 @@
   - Completed a Master of Science in Applied Data Science in 18 months, totaling 36 credits.
 </details>
 <details markdown="1">
-  <summary>[Rosie's Game Night](https://www.rosiesgamenight.com)</summary>
+  <summary><a target="_new" href="https://www.rosiesgamenight.com">Rosie's Game Night</a></summary>
   
   - Base Wheel of Fortune game originally coded in 2022.
   - Used Claude to complete the game build and expand it into a full platform
