@@ -150,6 +150,7 @@
   <summary>MS - Applied Data Science Portfolio</summary>
   
   - Completed a Master of Science in Applied Data Science in 18 months, totaling 36 credits.
+  - [GitHub Repository](https://github.com/sasnow/MS-ADS-Portfolio)
 </details>
 <details markdown="1">
   <summary><a target="_new" href="https://www.rosiesgamenight.com">Rosie's Game Night</a></summary>
@@ -158,6 +159,7 @@
   - Used Claude to complete the game build and expand it into a full platform
   - Simple hosting using Vercel and Render
   - Django, React, PostgreSQL
+  - [GitHub Repository](https://github.com/sasnow/RosiesGameNight)
   - *Planning to expand to a full social gaming platform combining elements of nytimes.com/games and JackBox*
 </details>
 
