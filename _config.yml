@@ -2,3 +2,4 @@ theme: minima
 title: "Scott Snow | Interactive Resume"
 author: "Scott Snow"
 description: "Software Engineer Profile"
+baseurl: "/portfolio"
