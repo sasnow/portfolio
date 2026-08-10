@@ -164,7 +164,7 @@
 </details>
 
 ## Skills
-<details markdown="1">
+<details open markdown="1">
   <summary>Programming Languages</summary>
   
   - C#
@@ -173,7 +173,7 @@
   - JavaScript
   - VBA
 </details>
-<details open markdown="1">
+<details markdown="1">
   <summary>Platforms</summary>
   
   - GitHub
