@@ -1,6 +1,6 @@
 
 
-[Skills](#skills) - [About Me](#about-me) - [Education](#education) - [LinkedIn](https://www.linkedin.com/in/scott-snow/) - [E-mail](mailto:scott_a_snow@yahoo.com) - 
+[Skills](#skills) - [About Me](#about-me) - [Education](#education) - [LinkedIn](https://www.linkedin.com/in/scott-snow/) - [E-mail](mailto:scott_a_snow@yahoo.com)
 
 ## Work Project Summaries
 ### Software Engineer
