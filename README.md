@@ -162,7 +162,9 @@
   - [GitHub Repository](https://github.com/sasnow/RosiesGameNight)
   - *Planning to expand to a full social gaming platform combining elements of nytimes.com/games and JackBox*
 </details>
+
 [⬆ Back to top](#top)
+
 ## Skills
 <details open markdown="1">
   <summary>Programming Languages</summary>
@@ -199,7 +201,9 @@
   - CI/CD
   - REST API
 </details>
+
 [⬆ Back to top](#top)
+
 ## About Me
 
 I am a Full Stack Developer, Automation Engineer, and Power BI Developer with additional experience across several areas of Data Science, including Machine Learning, Data Engineering, and Natural Language Processing. After returning to school and transitioning my career in 2019, I joined EY, where I have continued to grow through a variety of projects and cross-functional roles.
@@ -209,7 +213,9 @@ I came to EY expecting most of my work to be data engineering and Power BI visua
 One of my first major opportunities involved developing a tool for a consulting team supporting multiple clients. The original objective was to automate the deployment of a database and its associated Power BI reporting solution. The team selected .NET as the foundation for the automation effort, and while collaborating on the Power BI template and database design, I independently learned C# and .NET Core to contribute to development. As stakeholder requirements expanded, the solution evolved from a simple automation utility into a full-scale web application that included file upload workflows and project management functionality. To support the growing scope, additional experienced developers joined the project, while I continued serving as the technical lead due to my deep familiarity with the application and codebase. After the initial delivery, the project transitioned into ongoing support. In 2024, I was brought back to lead a new development team focused on expanding the platform with additional functionality. Since then, we have successfully delivered three new features and are currently partnering with Information Security teams to complete a comprehensive security review of the application.
 
 Another significant transition occurred after the original project was handed off for maintenance. At the time, the automation testing team had a growing need for additional support, and I was asked to transition into automated software testing. To prepare for the role, I learned Robot Framework, Selenium, and software quality assurance best practices. After contributing to several smaller initiatives, I joined the automation team supporting OneAccess, an internal identity and access management platform. Over the past three years, I have helped design and build regression automation pipelines from the ground up for two major functional areas: the Group Management API offering and a related cloud-native security group solution. In addition, I have developed UI automation coverage for numerous other application components, including bulk upload workflows and group management plugins.
+
 [⬆ Back to top](#top)
+
 ## Education
 
 Master of Science
