@@ -155,10 +155,10 @@
   <summary>[Rosie's Game Night](https://www.rosiesgamenight.com)</summary>
   
   - Base Wheel of Fortune game originally coded in 2022.
-  - Used Claude to complete the game build and build the platform
+  - Used Claude to complete the game build and expand it into a full platform
   - Simple hosting using Vercel and Render
   - Django, React, PostgreSQL
-  - Planning to expand to a full social gaming platform combining elements of nytimes.com/games and JackBox
+  - *Planning to expand to a full social gaming platform combining elements of nytimes.com/games and JackBox*
 </details>
 
 ## Skills
