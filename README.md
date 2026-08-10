@@ -4,8 +4,8 @@
 
 ## Work Project Summaries
 ### Software Engineer
-<details markdown="1">
-  <summary>Test Insights Platform - Lead Developer</summary>
+<details open markdown="1">
+  <summary>Test Insights Platform - Lead Developer - Current</summary>
 
   - Designed and developed a full-stack web application using .NET, jQuery, PostgreSQL, and Azure, serving as the primary developer from inception through deployment.
   - Implemented role-based access control for users, ensuring secure and compliant data and function access across the platform.
@@ -18,6 +18,8 @@
   - Oversaw backend upgrades from .NET Core 3.0 to .NET 9.
   - Collaborated with stakeholders to translate business requirements into technical solutions, delivering a scalable and maintainable reporting platform.
   - Reduced total effort spent on customer onboarding, report design, pipeline creation, and data loading.
+  - Provided feedback and PR reviews to fellow developers.
+  - Documented user and administrator handbooks, information security implementations, developer operating procedures, and deployment processes.
 
 </details>
 
@@ -49,6 +51,22 @@
 
 ### QA/Automation Engineer
 
+<details open markdown="1">
+  <summary>OneAccess QA Automation - QA Automation Engineer - Current</summary>
+
+- Developed automation scripts to test OneAccess application UI controls and API endpoints, run daily as part of API regression and weekly as part of UI regression.
+- Worked within a Scaled Agile Framework automation team to maintain high velocity and productivity.
+- Performed QA validation for related changes and new features.
+- Gathered acceptance criteria and functional context to draft test cases.
+  
+</details>
+<details open markdown="1">
+  <summary>CNSG Solution QA Automation - QA Automation Engineer - Current</summary>
+
+- Developed automation scripts to test the CNSG solution, validating PowerShell output and confirming cloud-native changes in the Azure Portal.
+- Developed a local environment pipeline in Python to run the overnight regression and bundle results
+
+</details>
 <details markdown="1">
   <summary>PingID Regression Testing - QA Automation Engineer</summary>
 
@@ -56,23 +74,7 @@
 
 
 </details>
-<details markdown="1">
-  <summary>OneAccess QA Automation - QA Automation Engineer</summary>
 
-- Developed automation scripts to test OneAccess application UI controls and API endpoints, run daily as part of API regression and weekly as part of UI regression.
-- Worked within a Scaled Agile Framework automation team to maintain high velocity and productivity.
-- Performed QA validation for related changes and new features.
-- Gathered acceptance criteria and functional context to draft test cases.
-
-
-</details>
-<details markdown="1">
-  <summary>CNSG Solution QA Automation - QA Automation Engineer</summary>
-
-- Developed automation scripts to test the CNSG solution, validating PowerShell output and confirming cloud-native changes in the Azure Portal.
-
-
-</details>
 
 ### Power BI Developer
 
