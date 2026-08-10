@@ -15,18 +15,17 @@ Another significant transition occurred after the original project was handed of
 <details>
   <summary>Test Insights Platform - Lead Developer</summary>
 
-- Designed and developed a full-stack web application using .NET, jQuery, PostgreSQL, and Azure, serving as the primary developer from inception through deployment.
-- Implemented role-based access control for users, ensuring secure and compliant data and function access across the platform.
-- Built a report library interface, administrative web forms, and data mapping/upload features, streamlining business operations and improving usability.
-- Integrated Power BI functionality, including toggling between edit/view modes and exporting reports to PDF or PBIX, enhancing reporting flexibility for end users.
-- Developed interactive Power BI reports delivering trend and predictive analysis on defect detection rates, defect resolution velocity, test execution velocity, and test case pass rates.
-- Built predictive models using PostgreSQL stored functions to forecast open defect burndown and test case velocity.
-- Designed a data mapping feature that simplified the new user experience, reducing end-user responsibility to data extraction only.
-- Developed a processing pipeline that ingested uploaded data and executed calculation functions to build multiple unique time-series tables.
-- Oversaw backend upgrades from .NET Core 3.0 to .NET 9.
-- Collaborated with stakeholders to translate business requirements into technical solutions, delivering a scalable and maintainable reporting platform.
-- Reduced total effort spent on customer onboarding, report design, pipeline creation, and data loading.
-
+  - Designed and developed a full-stack web application using .NET, jQuery, PostgreSQL, and Azure, serving as the primary developer from inception through deployment.
+  - Implemented role-based access control for users, ensuring secure and compliant data and function access across the platform.
+  - Built a report library interface, administrative web forms, and data mapping/upload features, streamlining business operations and improving usability.
+  - Integrated Power BI functionality, including toggling between edit/view modes and exporting reports to PDF or PBIX, enhancing reporting flexibility for end users.
+  - Developed interactive Power BI reports delivering trend and predictive analysis on defect detection rates, defect resolution velocity, test execution velocity, and test case pass rates.
+  - Built predictive models using PostgreSQL stored functions to forecast open defect burndown and test case velocity.
+  - Designed a data mapping feature that simplified the new user experience, reducing end-user responsibility to data extraction only.
+  - Developed a processing pipeline that ingested uploaded data and executed calculation functions to build multiple unique time-series tables.
+  - Oversaw backend upgrades from .NET Core 3.0 to .NET 9.
+  - Collaborated with stakeholders to translate business requirements into technical solutions, delivering a scalable and maintainable reporting platform.
+  - Reduced total effort spent on customer onboarding, report design, pipeline creation, and data loading.
 
 </details>
 
