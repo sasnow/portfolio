@@ -167,45 +167,6 @@
 
 [⬆ Back to top](#top)
 
-## Skills
-<details open markdown="1">
-  <summary>Programming Languages</summary>
-  
-  - C#
-  - Python
-  - SQL
-  - JavaScript
-  - VBA
-</details>
-<details markdown="1">
-  <summary>Platforms</summary>
-  
-  - GitHub
-  - Azure DevOps
-  - Azure
-  - Jira
-  - SSIS
-</details>
-<details markdown="1">
-  <summary>Libraries/Frameworks</summary>
-  
-  - MVC/.NET
-  - Django
-  - jQuery
-  - Angular (personal only)
-  - React (personal only)
-  - Robot Framework
-  - Selenium
-</details>
-<details markdown="1">
-  <summary>Concepts</summary>
-  
-  - CI/CD
-  - REST API
-</details>
-
-[⬆ Back to top](#top)
-
 ## About Me
 
 I am a Full Stack Developer, Automation Engineer, and Power BI Developer with additional experience across several areas of Data Science, including Machine Learning, Data Engineering, and Natural Language Processing. After returning to school and transitioning my career in 2019, I joined EY, where I have continued to grow through a variety of projects and cross-functional roles.
