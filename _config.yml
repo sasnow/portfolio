@@ -1,4 +1,4 @@
-theme: jekyll-theme-hydejack
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 title: "Scott Snow | Interactive Resume"
 author: "Scott Snow"
 description: "Software Engineer Profile"
