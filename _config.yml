@@ -3,3 +3,4 @@ title: "Scott Snow | Interactive Resume"
 author: "Scott Snow"
 description: "Full-Stack Engineer | Automation/QA Engineer | Power BI Developer"
 baseurl: "/portfolio"
+show_downloads: false
