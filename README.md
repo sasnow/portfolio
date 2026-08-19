@@ -176,13 +176,3 @@ One of my first major opportunities involved developing a tool for a consulting 
 Another significant transition occurred after the original project was handed off for maintenance. At the time, the automation testing team had a growing need for additional support, and I was asked to transition into automated software testing. To prepare for the role, I learned Robot Framework, Selenium, and software quality assurance best practices. After contributing to several smaller initiatives, I joined the automation team supporting OneAccess, an internal identity and access management platform. Over the past three years, I have helped design and build regression automation pipelines from the ground up for two major functional areas: the Group Management API offering and a related cloud-native security group solution. In addition, I have developed UI automation coverage for numerous other application components, including bulk upload workflows and group management plugins.
 
 [⬆ Back to top](#top)
-
-## Education
-
-Master of Science
-Applied Data Science
-2018 - 2019
-
-Bachelor of Science
-Mathematics
-2009 - 2014
