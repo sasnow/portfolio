@@ -1,8 +1,6 @@
 <a id="top"></a>
 
-[Skills](#skills) - [About Me](#about-me) - [Education](#education)
-
-[LinkedIn](https://www.linkedin.com/in/scott-snow/) - [GitHub](https://github.com/sasnow) - [E-mail](mailto:scott_a_snow@yahoo.com)
+[About Me](#about-me) - [Education](#education)
 
 ## Work Project Summaries
 ### Software Engineer
